@@ -1,0 +1,62 @@
+
+
+"AStand02_Top	130x66	0.648	0.326	0.5"
+"BillboardHuge01	2616x1227	13.08	6.133	0.5"
+
+"BillboardLarge01	1846x866	9.226	4.326	0.5"
+
+"BillboardMedium01	1027x482	5.134	2.408	0.5"
+
+"BillboardRoundLarge01	538x538	2.69	2.69	0.5"
+"BillboardRoundMedium01	294x294	1.47	1.47	0.5"
+"BillboardRoundSmall01	229x229	1.144	1.144	0.5"
+"BillboardSmall01	765x344	3.822	1.718	0.5"
+
+"BillboardWallHuge01	2512x1179	12.558	5.891	0.5"
+
+"BillboardWallLarge01	1678x788	8.39	3.94	0.5"
+
+"BillboardWallLarge03	1322x1006	6.608	5.026	0.5"
+
+"BillboardWallMedium01	781x351	3.904	1.754	0.5"
+
+"BillboardWallSmall01	245x233	1.225	1.163	0.5"
+"BillboardWallSmall02	200x232	1	1.16	0.5"
+"BillboardWallSmall03	234x221	1.17	1.102	0.5"
+
+"GasStationPylon01_Down	414x169	2.07	0.845	0.5"
+"GasStationPylon01_Up	408x363	2.036	1.812	0.5"
+"GasStationPylon02_Down	348x127	1.74	0.632	0.534"
+"GasStationPylon02_Up	350x338	1.746	1.688	0.5"
+"GasStationPylon03	437x178	2.1834	0.89	0.566"
+
+"PosterHuge02	1609x1223	8.042	6.112	0.5"
+"PosterLarge01	1510x708	7.548	3.538	0.5"
+"PosterLarge02	927x704	4.634	3.52	0.5"
+"PosterMedium01	913x428	4.562	2.14	0.5"
+"PosterMedium02	564x427	2.82	2.134	0.5"
+"PosterSmall01	506x238	2.53	1.188	0.5"
+"PosterSmall02	313x238	1.564	1.19	0.5"
+"Screen01	251x388	1.251	1.9359	0.608"
+"Screen02	645x290	3.224	1.4478	0.5"
+"SignFrontwayLarge01	1920x486	9.6	2.427	0.5"
+"SignFrontwayLarge02	1818x397	9.086	1.983	0.5"
+"SignFrontwayMedium01	989x250	4.944	1.249	0.5"
+"SignFrontwayMedium02	1026x224	5.13	1.118	0.5"
+"SignFrontwaySmall01	539x138	2.692	0.689	0.5"
+"SignFrontwaySmall02	538x117	2.69	0.582	0.5"
+"SignNeonLarge01	1446x355	7.23	1.772	0.5"
+"SignNeonLarge02	1183x789	5.914	3.944	0.5"
+"SignNeonMedium01	966x235	4.829	1.172	0.5"
+"SignNeonMedium02	676x451	3.378	2.255	0.5"
+"SignNeonSmall01	483x119	2.414	0.591	0.5"
+"SignNeonSmall02	290x193	1.448	0.965	0.5"
+
+"SignSidewayLarge01	284x1126	1.419	5.6262	0.5"
+"SignSidewayLarge02	243x1111	1.211	5.552	0.5"
+"SignSidewayMedium01	150x592	0.746	2.96	0.5"
+"SignSidewayMedium02	128x589	0.639	2.942	0.5"
+"SignSidewaySmall01	146x144	0.726	0.72	0.5"
+"SignSidewaySmall02	131x132	0.655	0.66	0.5"
+"Stand01	128x194	0.64	0.968	0.5"
+

@@ -1,10 +1,10 @@
 # Introduction
 
-This folder includes templates for all vanilla Cities: Skylinese II Brand Graphics currently in the game. These templates can be used to create decals, which can be placed over the vanilla graphics.
+This folder includes templates for all vanilla Cities: Skylines II Brand Graphics currently in the game. These templates can be used to create decals, which can be placed over the vanilla graphics.
 
 # Instructions
 
-1. Copy the `.workshop\output` folder out of the `.workshop` folder, and rename it to your chosen company name.
+1. Download and extract the `BrandDecalTemplate-v#.#.#.zip` or copy the `.workshop\output` folder out of the `.workshop` folder, and rename it to your chosen company name.
 2. Ensure you only include just the relevant brand objects to avoid increasing the mod size. To find out what items you need, plop the relevant building down in the Editor and see what ad items are present for that company.
 3. The image sizes are already optimized to be as little as possible. When editing the images using Photoshop or GIMP, use the "Export" option instead of "Save As". Follow these guidelines: Set Metadata to none, Do not add Interlacing, don't save/embed Color Profile and other unnecessary data.
 
@@ -22,6 +22,6 @@ For support, join the [SkyLinx](https://discord.gg/pnJxRNBYP3).
 
 # Disclaimer
 
-- This folder was originially created for StarQ's Real World Companies asset suites.
+- This folder was originally created for StarQ's Real World Companies asset suites.
 - Everyone is free to use the templates in this folder to create own images.
 - StarQ is not liable for any contents created from this template.

@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Set up version
         id: vars
@@ -28,7 +28,7 @@ jobs:
 
       - name: Upload Release Asset
         id: upload-release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2.0.5
         with:
           files: "BrandDecalTemplate-v${{ env.VERSION }}.zip"
           tag_name: ${{ env.VERSION }}

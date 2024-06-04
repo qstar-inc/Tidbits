@@ -56,7 +56,7 @@ def make_image(folder_path, name, width, height):
     image_path = os.path.join(folder_path, f'image.png')
     if name.endswith('_Top'):
         create_semicircle_image(image_path, width, height)
-    elif 'Round' in name:
+    elif 'Round' in name or 'SignSidewaySmall02' in name:
         create_circle_image(image_path, width, height)
     else:
         create_white_image(image_path, width, height)

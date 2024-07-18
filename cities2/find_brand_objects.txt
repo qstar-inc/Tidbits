@@ -1,0 +1,590 @@
+-------------------------------------------
+7e2256e11e0adbc4fbb789f12c77e719	28	002 - EU Mixed
+4b7bccfb3e5a13140bace22571f5f877	31	002 - EU Mixed
+b362f8de0471e6247ba6e3b782e42cea	5	002 - EU Mixed
+4f227c2a1c80f3348aa4136aa07680b2	21	002 - EU Mixed
+855b25a090a4d7e4d98c9f278420dc70	30	002 - EU Mixed
+6cdccc58a61c2314bb7e0b0781851485	26	002 - EU Mixed
+71cbb886b233b3343bb41718cd90aa2e	13	002 - EU Mixed
+d80b1360bce1579419c96bc8e0d67db3	43	002 - EU Mixed
+ed5bee5b4fd16874b84cc4b62a2e2d3e	40	002 - EU Mixed
+37173135540498a4e8b7686dcaa92f2f	39	002 - EU Mixed
+810ef11cc80c00a44b9a7e31b3ec6960	8	002 - EU Mixed
+c3de34db81c0c604bb27b090f04a062a	14	002 - EU Mixed
+785c3f4bfc5ec2f4f8383cc34073adc8	2	002 - EU Mixed
+8185f3c4cf05fbe478a55fb84487ec0c	8	002 - EU Mixed
+00f74c870f06a8746a426f97517e777b	13	002 - EU Mixed
+135b0eb5d8b55e24b8cae28398b1ac00	7	002 - EU Mixed
+1ba106031818e1946a3a0c50b2f482e2	10	002 - EU Mixed
+384ed11a5eddc3a41bc90aebf10b43f2	12	002 - EU Mixed
+3da100ecfad738b42bb0970767ded006	23	002 - EU Mixed
+b12031c2f9f2f9f40b5829c1859d1526	2	002 - EU Mixed
+02c99a63f6fdd5e4993a7e48ca365ae7	4	002 - EU Mixed
+9cdb1284630869d4590b6173b8314b3e	6	002 - EU Mixed
+fe0ad3eac817c0c42bd9f48bc44e667d	2	002 - EU Mixed
+047a9f563c5146045bbdab53c207965d	2	002 - EU Mixed
+df1ae4e2e01e3e244b6d4f1ec59626a3	4	002 - EU Mixed
+-------------------------------------------
+855b25a090a4d7e4d98c9f278420dc70	13	003 - NA Mixed
+9cdb1284630869d4590b6173b8314b3e	2	003 - NA Mixed
+ed5bee5b4fd16874b84cc4b62a2e2d3e	86	003 - NA Mixed
+d80b1360bce1579419c96bc8e0d67db3	67	003 - NA Mixed
+fe0ad3eac817c0c42bd9f48bc44e667d	13	003 - NA Mixed
+bae8e8614aa23954dae6c55782cfff91	9	003 - NA Mixed
+810ef11cc80c00a44b9a7e31b3ec6960	8	003 - NA Mixed
+37173135540498a4e8b7686dcaa92f2f	10	003 - NA Mixed
+8185f3c4cf05fbe478a55fb84487ec0c	6	003 - NA Mixed
+4f227c2a1c80f3348aa4136aa07680b2	47	003 - NA Mixed
+6cdccc58a61c2314bb7e0b0781851485	4	003 - NA Mixed
+603f63c276f0e874aa7f438c7740cd11	4	003 - NA Mixed
+047a9f563c5146045bbdab53c207965d	13	003 - NA Mixed
+c2d0baae27f11d24fa776ada32407b0d	11	003 - NA Mixed
+b362f8de0471e6247ba6e3b782e42cea	2	003 - NA Mixed
+655ebd65365a61f4b98e2f1a15944f54	4	003 - NA Mixed
+dbd8aa58534df3947a09bc7f3a1ac0dc	2	003 - NA Mixed
+-------------------------------------------
+91aa36263b51f2248a19de72eb0d7998	28	.CommGasEU
+4f227c2a1c80f3348aa4136aa07680b2	5	.CommGasEU
+769b86b9cf728404692596b2fa353769	4	.CommGasEU
+855b25a090a4d7e4d98c9f278420dc70	7	.CommGasEU
+9cdb1284630869d4590b6173b8314b3e	12	.CommGasEU
+b362f8de0471e6247ba6e3b782e42cea	4	.CommGasEU
+c3de34db81c0c604bb27b090f04a062a	13	.CommGasEU
+047a9f563c5146045bbdab53c207965d	5	.CommGasEU
+54910a349e38b7c4384ae196a6c3670e	4	.CommGasEU
+1ba106031818e1946a3a0c50b2f482e2	6	.CommGasEU
+655ebd65365a61f4b98e2f1a15944f54	6	.CommGasEU
+8185f3c4cf05fbe478a55fb84487ec0c	4	.CommGasEU
+7e2256e11e0adbc4fbb789f12c77e719	4	.CommGasEU
+71cbb886b233b3343bb41718cd90aa2e	2	.CommGasEU
+810ef11cc80c00a44b9a7e31b3ec6960	2	.CommGasEU
+d947014c8239f144b8fe3aaa3c7002ec	2	.CommGasEU
+-------------------------------------------
+9cdb1284630869d4590b6173b8314b3e	7	.CommGasNA
+5b346c7e24f8b9b45b66716acb792607	6	.CommGasNA
+91aa36263b51f2248a19de72eb0d7998	20	.CommGasNA
+d685afaba91b8514aaddff5008d7e725	6	.CommGasNA
+4f227c2a1c80f3348aa4136aa07680b2	16	.CommGasNA
+047a9f563c5146045bbdab53c207965d	5	.CommGasNA
+7e2256e11e0adbc4fbb789f12c77e719	5	.CommGasNA
+810ef11cc80c00a44b9a7e31b3ec6960	11	.CommGasNA
+855b25a090a4d7e4d98c9f278420dc70	16	.CommGasNA
+b362f8de0471e6247ba6e3b782e42cea	14	.CommGasNA
+db3955b10e957054fa2691bd19017c97	4	.CommGasNA
+37173135540498a4e8b7686dcaa92f2f	8	.CommGasNA
+655ebd65365a61f4b98e2f1a15944f54	4	.CommGasNA
+8185f3c4cf05fbe478a55fb84487ec0c	10	.CommGasNA
+fe0ad3eac817c0c42bd9f48bc44e667d	6	.CommGasNA
+b3a0aa64736f28c45b16216e56c6dcd9	2	.CommGasNA
+c3de34db81c0c604bb27b090f04a062a	3	.CommGasNA
+-------------------------------------------
+4b7bccfb3e5a13140bace22571f5f877	28	.CommHighEU
+5d6f2e1ce7a1a714f81943892b9da1c0	6	.CommHighEU
+603f63c276f0e874aa7f438c7740cd11	25	.CommHighEU
+769b86b9cf728404692596b2fa353769	11	.CommHighEU
+8185f3c4cf05fbe478a55fb84487ec0c	22	.CommHighEU
+855b25a090a4d7e4d98c9f278420dc70	43	.CommHighEU
+9cdb1284630869d4590b6173b8314b3e	20	.CommHighEU
+b3a0aa64736f28c45b16216e56c6dcd9	14	.CommHighEU
+b7f5ced0233fcb948a43883ebe08aa73	25	.CommHighEU
+d80b1360bce1579419c96bc8e0d67db3	15	.CommHighEU
+02c99a63f6fdd5e4993a7e48ca365ae7	11	.CommHighEU
+4f227c2a1c80f3348aa4136aa07680b2	44	.CommHighEU
+7e2256e11e0adbc4fbb789f12c77e719	19	.CommHighEU
+810ef11cc80c00a44b9a7e31b3ec6960	17	.CommHighEU
+fe0ad3eac817c0c42bd9f48bc44e667d	19	.CommHighEU
+460bc75ecde76624db5d9c6c6d11d190	2	.CommHighEU
+381510ba31636e4418131f569495c09f	4	.CommHighEU
+b362f8de0471e6247ba6e3b782e42cea	23	.CommHighEU
+c3de34db81c0c604bb27b090f04a062a	22	.CommHighEU
+df1ae4e2e01e3e244b6d4f1ec59626a3	6	.CommHighEU
+37173135540498a4e8b7686dcaa92f2f	6	.CommHighEU
+b12031c2f9f2f9f40b5829c1859d1526	11	.CommHighEU
+d6e1a56b4268294449b92beeb1cd6530	3	.CommHighEU
+047a9f563c5146045bbdab53c207965d	28	.CommHighEU
+1ba106031818e1946a3a0c50b2f482e2	16	.CommHighEU
+6e48309ea1b7a954c8baf5f1ea210df9	5	.CommHighEU
+89621152bff79d944b9e228fc0ae57a6	21	.CommHighEU
+bd5c6d42684f0604ab740e16bc28af47	16	.CommHighEU
+ed5bee5b4fd16874b84cc4b62a2e2d3e	15	.CommHighEU
+135b0eb5d8b55e24b8cae28398b1ac00	21	.CommHighEU
+67e5463deb3db284aa1565843a50cee6	5	.CommHighEU
+b828678d6b5fa9546b37547b70cd3973	11	.CommHighEU
+0003ddc9c81772841b87107ae9a88dad	12	.CommHighEU
+3da100ecfad738b42bb0970767ded006	14	.CommHighEU
+d947014c8239f144b8fe3aaa3c7002ec	6	.CommHighEU
+384ed11a5eddc3a41bc90aebf10b43f2	6	.CommHighEU
+50af1995a9e4bfe43aadde3137cc6c8b	16	.CommHighEU
+11325c4ff827a954380665d842c7b312	12	.CommHighEU
+6cdccc58a61c2314bb7e0b0781851485	2	.CommHighEU
+bb82e6396dd235f428adb0be2c9e58b1	2	.CommHighEU
+71cbb886b233b3343bb41718cd90aa2e	3	.CommHighEU
+3523125ac4634e1469b9fa77e0447e77	3	.CommHighEU
+00f74c870f06a8746a426f97517e777b	2	.CommHighEU
+cdd7ac5ceb8acdf4ca3ed817ca1da886	2	.CommHighEU
+-------------------------------------------
+047a9f563c5146045bbdab53c207965d	2	.CommHighEUSig
+655ebd65365a61f4b98e2f1a15944f54	1	.CommHighEUSig
+6e48309ea1b7a954c8baf5f1ea210df9	1	.CommHighEUSig
+816cfd33a2a9d434284a650033f5245e	2	.CommHighEUSig
+8185f3c4cf05fbe478a55fb84487ec0c	1	.CommHighEUSig
+83d0dd67f0bdd12439e0d00374e8b394	1	.CommHighEUSig
+cdd7ac5ceb8acdf4ca3ed817ca1da886	1	.CommHighEUSig
+0003ddc9c81772841b87107ae9a88dad	1	.CommHighEUSig
+4f227c2a1c80f3348aa4136aa07680b2	1	.CommHighEUSig
+89621152bff79d944b9e228fc0ae57a6	1	.CommHighEUSig
+c3de34db81c0c604bb27b090f04a062a	1	.CommHighEUSig
+d0a1c606b22c86543856f672819e20d1	1	.CommHighEUSig
+11325c4ff827a954380665d842c7b312	1	.CommHighEUSig
+1ba106031818e1946a3a0c50b2f482e2	1	.CommHighEUSig
+7e2256e11e0adbc4fbb789f12c77e719	1	.CommHighEUSig
+c2d0baae27f11d24fa776ada32407b0d	1	.CommHighEUSig
+fe0ad3eac817c0c42bd9f48bc44e667d	1	.CommHighEUSig
+-------------------------------------------
+11325c4ff827a954380665d842c7b312	10	.CommHighNA
+4b7bccfb3e5a13140bace22571f5f877	26	.CommHighNA
+4f227c2a1c80f3348aa4136aa07680b2	43	.CommHighNA
+855b25a090a4d7e4d98c9f278420dc70	32	.CommHighNA
+b7f5ced0233fcb948a43883ebe08aa73	9	.CommHighNA
+bb82e6396dd235f428adb0be2c9e58b1	2	.CommHighNA
+c3de34db81c0c604bb27b090f04a062a	31	.CommHighNA
+d0a1c606b22c86543856f672819e20d1	2	.CommHighNA
+d6e1a56b4268294449b92beeb1cd6530	2	.CommHighNA
+df1ae4e2e01e3e244b6d4f1ec59626a3	27	.CommHighNA
+135b0eb5d8b55e24b8cae28398b1ac00	44	.CommHighNA
+603f63c276f0e874aa7f438c7740cd11	26	.CommHighNA
+810ef11cc80c00a44b9a7e31b3ec6960	26	.CommHighNA
+8185f3c4cf05fbe478a55fb84487ec0c	20	.CommHighNA
+b362f8de0471e6247ba6e3b782e42cea	31	.CommHighNA
+dbd8aa58534df3947a09bc7f3a1ac0dc	3	.CommHighNA
+ed5bee5b4fd16874b84cc4b62a2e2d3e	29	.CommHighNA
+fe0ad3eac817c0c42bd9f48bc44e667d	21	.CommHighNA
+0003ddc9c81772841b87107ae9a88dad	13	.CommHighNA
+50af1995a9e4bfe43aadde3137cc6c8b	28	.CommHighNA
+7e2256e11e0adbc4fbb789f12c77e719	31	.CommHighNA
+047a9f563c5146045bbdab53c207965d	28	.CommHighNA
+1ba106031818e1946a3a0c50b2f482e2	25	.CommHighNA
+b828678d6b5fa9546b37547b70cd3973	10	.CommHighNA
+d80b1360bce1579419c96bc8e0d67db3	5	.CommHighNA
+381510ba31636e4418131f569495c09f	10	.CommHighNA
+b12031c2f9f2f9f40b5829c1859d1526	13	.CommHighNA
+3da100ecfad738b42bb0970767ded006	14	.CommHighNA
+67e5463deb3db284aa1565843a50cee6	6	.CommHighNA
+71cbb886b233b3343bb41718cd90aa2e	17	.CommHighNA
+769b86b9cf728404692596b2fa353769	6	.CommHighNA
+89621152bff79d944b9e228fc0ae57a6	22	.CommHighNA
+00f74c870f06a8746a426f97517e777b	18	.CommHighNA
+3523125ac4634e1469b9fa77e0447e77	19	.CommHighNA
+9cdb1284630869d4590b6173b8314b3e	18	.CommHighNA
+bd5c6d42684f0604ab740e16bc28af47	10	.CommHighNA
+6e48309ea1b7a954c8baf5f1ea210df9	5	.CommHighNA
+02c99a63f6fdd5e4993a7e48ca365ae7	7	.CommHighNA
+5d6f2e1ce7a1a714f81943892b9da1c0	3	.CommHighNA
+d947014c8239f144b8fe3aaa3c7002ec	6	.CommHighNA
+37173135540498a4e8b7686dcaa92f2f	7	.CommHighNA
+209315f1ccb86394fb19b5269db5859b	2	.CommHighNA
+941958e7a8d4e2b4490b1c461f25eede	2	.CommHighNA
+b3a0aa64736f28c45b16216e56c6dcd9	3	.CommHighNA
+d685afaba91b8514aaddff5008d7e725	2	.CommHighNA
+384ed11a5eddc3a41bc90aebf10b43f2	8	.CommHighNA
+54910a349e38b7c4384ae196a6c3670e	9	.CommHighNA
+-------------------------------------------
+047a9f563c5146045bbdab53c207965d	2	.CommHighNASig
+11325c4ff827a954380665d842c7b312	1	.CommHighNASig
+135b0eb5d8b55e24b8cae28398b1ac00	1	.CommHighNASig
+b12031c2f9f2f9f40b5829c1859d1526	1	.CommHighNASig
+c2d0baae27f11d24fa776ada32407b0d	1	.CommHighNASig
+1d6fc888b7738bd4ea422c8a23ca6af5	1	.CommHighNASig
+205f562936dc7194bab7cefe4b0f6f9a	1	.CommHighNASig
+655ebd65365a61f4b98e2f1a15944f54	1	.CommHighNASig
+83d0dd67f0bdd12439e0d00374e8b394	1	.CommHighNASig
+9cdb1284630869d4590b6173b8314b3e	1	.CommHighNASig
+c3de34db81c0c604bb27b090f04a062a	1	.CommHighNASig
+dbd8aa58534df3947a09bc7f3a1ac0dc	1	.CommHighNASig
+fe0ad3eac817c0c42bd9f48bc44e667d	1	.CommHighNASig
+3523125ac4634e1469b9fa77e0447e77	1	.CommHighNASig
+4f227c2a1c80f3348aa4136aa07680b2	1	.CommHighNASig
+-------------------------------------------
+603f63c276f0e874aa7f438c7740cd11	3	.CommHotelEU
+8185f3c4cf05fbe478a55fb84487ec0c	17	.CommHotelEU
+855b25a090a4d7e4d98c9f278420dc70	12	.CommHotelEU
+9cdb1284630869d4590b6173b8314b3e	8	.CommHotelEU
+d80b1360bce1579419c96bc8e0d67db3	8	.CommHotelEU
+fe0ad3eac817c0c42bd9f48bc44e667d	10	.CommHotelEU
+4b7bccfb3e5a13140bace22571f5f877	8	.CommHotelEU
+810ef11cc80c00a44b9a7e31b3ec6960	6	.CommHotelEU
+b362f8de0471e6247ba6e3b782e42cea	6	.CommHotelEU
+135b0eb5d8b55e24b8cae28398b1ac00	8	.CommHotelEU
+50af1995a9e4bfe43aadde3137cc6c8b	6	.CommHotelEU
+769b86b9cf728404692596b2fa353769	4	.CommHotelEU
+7e2256e11e0adbc4fbb789f12c77e719	7	.CommHotelEU
+89621152bff79d944b9e228fc0ae57a6	8	.CommHotelEU
+bd5c6d42684f0604ab740e16bc28af47	4	.CommHotelEU
+ed5bee5b4fd16874b84cc4b62a2e2d3e	6	.CommHotelEU
+4f227c2a1c80f3348aa4136aa07680b2	2	.CommHotelEU
+3523125ac4634e1469b9fa77e0447e77	2	.CommHotelEU
+b3a0aa64736f28c45b16216e56c6dcd9	2	.CommHotelEU
+1d6fc888b7738bd4ea422c8a23ca6af5	4	.CommHotelEU
+37173135540498a4e8b7686dcaa92f2f	2	.CommHotelEU
+b7f5ced0233fcb948a43883ebe08aa73	4	.CommHotelEU
+1ba106031818e1946a3a0c50b2f482e2	1	.CommHotelEU
+02c99a63f6fdd5e4993a7e48ca365ae7	2	.CommHotelEU
+3da100ecfad738b42bb0970767ded006	2	.CommHotelEU
+-------------------------------------------
+135b0eb5d8b55e24b8cae28398b1ac00	15	.CommHotelNA
+603f63c276f0e874aa7f438c7740cd11	4	.CommHotelNA
+7e2256e11e0adbc4fbb789f12c77e719	8	.CommHotelNA
+8185f3c4cf05fbe478a55fb84487ec0c	7	.CommHotelNA
+855b25a090a4d7e4d98c9f278420dc70	7	.CommHotelNA
+d80b1360bce1579419c96bc8e0d67db3	5	.CommHotelNA
+02c99a63f6fdd5e4993a7e48ca365ae7	5	.CommHotelNA
+b362f8de0471e6247ba6e3b782e42cea	11	.CommHotelNA
+df1ae4e2e01e3e244b6d4f1ec59626a3	4	.CommHotelNA
+ed5bee5b4fd16874b84cc4b62a2e2d3e	7	.CommHotelNA
+fe0ad3eac817c0c42bd9f48bc44e667d	8	.CommHotelNA
+384ed11a5eddc3a41bc90aebf10b43f2	5	.CommHotelNA
+810ef11cc80c00a44b9a7e31b3ec6960	8	.CommHotelNA
+b7f5ced0233fcb948a43883ebe08aa73	2	.CommHotelNA
+50af1995a9e4bfe43aadde3137cc6c8b	7	.CommHotelNA
+b12031c2f9f2f9f40b5829c1859d1526	7	.CommHotelNA
+3da100ecfad738b42bb0970767ded006	2	.CommHotelNA
+5d6f2e1ce7a1a714f81943892b9da1c0	2	.CommHotelNA
+89621152bff79d944b9e228fc0ae57a6	6	.CommHotelNA
+bd5c6d42684f0604ab740e16bc28af47	2	.CommHotelNA
+c3de34db81c0c604bb27b090f04a062a	3	.CommHotelNA
+9cdb1284630869d4590b6173b8314b3e	3	.CommHotelNA
+0003ddc9c81772841b87107ae9a88dad	4	.CommHotelNA
+1ba106031818e1946a3a0c50b2f482e2	5	.CommHotelNA
+b828678d6b5fa9546b37547b70cd3973	3	.CommHotelNA
+3523125ac4634e1469b9fa77e0447e77	2	.CommHotelNA
+67e5463deb3db284aa1565843a50cee6	2	.CommHotelNA
+4b7bccfb3e5a13140bace22571f5f877	2	.CommHotelNA
+b3a0aa64736f28c45b16216e56c6dcd9	2	.CommHotelNA
+-------------------------------------------
+4f227c2a1c80f3348aa4136aa07680b2	73	.CommLowEU
+71cbb886b233b3343bb41718cd90aa2e	10	.CommLowEU
+8185f3c4cf05fbe478a55fb84487ec0c	31	.CommLowEU
+855b25a090a4d7e4d98c9f278420dc70	58	.CommLowEU
+9cdb1284630869d4590b6173b8314b3e	18	.CommLowEU
+37173135540498a4e8b7686dcaa92f2f	21	.CommLowEU
+7e2256e11e0adbc4fbb789f12c77e719	23	.CommLowEU
+b362f8de0471e6247ba6e3b782e42cea	75	.CommLowEU
+c3de34db81c0c604bb27b090f04a062a	44	.CommLowEU
+b7f5ced0233fcb948a43883ebe08aa73	32	.CommLowEU
+603f63c276f0e874aa7f438c7740cd11	41	.CommLowEU
+769b86b9cf728404692596b2fa353769	40	.CommLowEU
+816cfd33a2a9d434284a650033f5245e	4	.CommLowEU
+810ef11cc80c00a44b9a7e31b3ec6960	28	.CommLowEU
+b3a0aa64736f28c45b16216e56c6dcd9	17	.CommLowEU
+02c99a63f6fdd5e4993a7e48ca365ae7	4	.CommLowEU
+381510ba31636e4418131f569495c09f	7	.CommLowEU
+fe0ad3eac817c0c42bd9f48bc44e667d	13	.CommLowEU
+bb82e6396dd235f428adb0be2c9e58b1	2	.CommLowEU
+047a9f563c5146045bbdab53c207965d	17	.CommLowEU
+d80b1360bce1579419c96bc8e0d67db3	14	.CommLowEU
+d947014c8239f144b8fe3aaa3c7002ec	8	.CommLowEU
+941958e7a8d4e2b4490b1c461f25eede	2	.CommLowEU
+df1ae4e2e01e3e244b6d4f1ec59626a3	3	.CommLowEU
+b12031c2f9f2f9f40b5829c1859d1526	4	.CommLowEU
+1ba106031818e1946a3a0c50b2f482e2	3	.CommLowEU
+3523125ac4634e1469b9fa77e0447e77	5	.CommLowEU
+384ed11a5eddc3a41bc90aebf10b43f2	4	.CommLowEU
+5d6f2e1ce7a1a714f81943892b9da1c0	4	.CommLowEU
+54910a349e38b7c4384ae196a6c3670e	7	.CommLowEU
+4b7bccfb3e5a13140bace22571f5f877	7	.CommLowEU
+50af1995a9e4bfe43aadde3137cc6c8b	4	.CommLowEU
+ed5bee5b4fd16874b84cc4b62a2e2d3e	2	.CommLowEU
+0003ddc9c81772841b87107ae9a88dad	2	.CommLowEU
+d6e1a56b4268294449b92beeb1cd6530	2	.CommLowEU
+-------------------------------------------
+603f63c276f0e874aa7f438c7740cd11	1	.CommLowEUSig
+7e2256e11e0adbc4fbb789f12c77e719	2	.CommLowEUSig
+83d0dd67f0bdd12439e0d00374e8b394	1	.CommLowEUSig
+941958e7a8d4e2b4490b1c461f25eede	1	.CommLowEUSig
+dbd8aa58534df3947a09bc7f3a1ac0dc	1	.CommLowEUSig
+0c8a54d10924c4c4f967c512af8c74fe	1	.CommLowEUSig
+81a9639388eefdc4c9318b2c63180c6b	1	.CommLowEUSig
+d0a1c606b22c86543856f672819e20d1	1	.CommLowEUSig
+dd965d822be18a94d92451755bf82042	1	.CommLowEUSig
+de07dd1ccd340784387f963fd47a9656	1	.CommLowEUSig
+0003ddc9c81772841b87107ae9a88dad	1	.CommLowEUSig
+3523125ac4634e1469b9fa77e0447e77	1	.CommLowEUSig
+50af1995a9e4bfe43aadde3137cc6c8b	1	.CommLowEUSig
+54910a349e38b7c4384ae196a6c3670e	1	.CommLowEUSig
+b12031c2f9f2f9f40b5829c1859d1526	1	.CommLowEUSig
+c3de34db81c0c604bb27b090f04a062a	1	.CommLowEUSig
+d6e1a56b4268294449b92beeb1cd6530	1	.CommLowEUSig
+d947014c8239f144b8fe3aaa3c7002ec	1	.CommLowEUSig
+df1ae4e2e01e3e244b6d4f1ec59626a3	1	.CommLowEUSig
+fe03fdd49d2e2f34097f83d3dd63e5d1	1	.CommLowEUSig
+-------------------------------------------
+4f227c2a1c80f3348aa4136aa07680b2	83	.CommLowNA
+8185f3c4cf05fbe478a55fb84487ec0c	44	.CommLowNA
+855b25a090a4d7e4d98c9f278420dc70	57	.CommLowNA
+b362f8de0471e6247ba6e3b782e42cea	58	.CommLowNA
+c3de34db81c0c604bb27b090f04a062a	57	.CommLowNA
+769b86b9cf728404692596b2fa353769	22	.CommLowNA
+7e2256e11e0adbc4fbb789f12c77e719	62	.CommLowNA
+047a9f563c5146045bbdab53c207965d	25	.CommLowNA
+d80b1360bce1579419c96bc8e0d67db3	21	.CommLowNA
+9cdb1284630869d4590b6173b8314b3e	48	.CommLowNA
+603f63c276f0e874aa7f438c7740cd11	29	.CommLowNA
+810ef11cc80c00a44b9a7e31b3ec6960	29	.CommLowNA
+b3a0aa64736f28c45b16216e56c6dcd9	26	.CommLowNA
+b7f5ced0233fcb948a43883ebe08aa73	25	.CommLowNA
+460bc75ecde76624db5d9c6c6d11d190	36	.CommLowNA
+71cbb886b233b3343bb41718cd90aa2e	10	.CommLowNA
+785c3f4bfc5ec2f4f8383cc34073adc8	6	.CommLowNA
+fe0ad3eac817c0c42bd9f48bc44e667d	4	.CommLowNA
+4b7bccfb3e5a13140bace22571f5f877	6	.CommLowNA
+50af1995a9e4bfe43aadde3137cc6c8b	11	.CommLowNA
+6cdccc58a61c2314bb7e0b0781851485	7	.CommLowNA
+d6e1a56b4268294449b92beeb1cd6530	8	.CommLowNA
+54910a349e38b7c4384ae196a6c3670e	7	.CommLowNA
+d0a1c606b22c86543856f672819e20d1	2	.CommLowNA
+1ba106031818e1946a3a0c50b2f482e2	6	.CommLowNA
+d947014c8239f144b8fe3aaa3c7002ec	3	.CommLowNA
+df1ae4e2e01e3e244b6d4f1ec59626a3	2	.CommLowNA
+-------------------------------------------
+1ba106031818e1946a3a0c50b2f482e2	1	.CommLowNASig
+c3de34db81c0c604bb27b090f04a062a	2	.CommLowNASig
+1d6fc888b7738bd4ea422c8a23ca6af5	1	.CommLowNASig
+603f63c276f0e874aa7f438c7740cd11	2	.CommLowNASig
+71cbb886b233b3343bb41718cd90aa2e	1	.CommLowNASig
+7e2256e11e0adbc4fbb789f12c77e719	2	.CommLowNASig
+81a9639388eefdc4c9318b2c63180c6b	2	.CommLowNASig
+8741f473ee4efd94ea8051b27ab94158	1	.CommLowNASig
+9cdb1284630869d4590b6173b8314b3e	2	.CommLowNASig
+b3a0aa64736f28c45b16216e56c6dcd9	1	.CommLowNASig
+d0a1c606b22c86543856f672819e20d1	2	.CommLowNASig
+16888570e33f1ba4bb1f70d8a13236db	1	.CommLowNASig
+d947014c8239f144b8fe3aaa3c7002ec	1	.CommLowNASig
+-------------------------------------------
+7e2256e11e0adbc4fbb789f12c77e719	6	.CommMotelEU
+810ef11cc80c00a44b9a7e31b3ec6960	2	.CommMotelEU
+8185f3c4cf05fbe478a55fb84487ec0c	13	.CommMotelEU
+855b25a090a4d7e4d98c9f278420dc70	18	.CommMotelEU
+9cdb1284630869d4590b6173b8314b3e	12	.CommMotelEU
+603f63c276f0e874aa7f438c7740cd11	5	.CommMotelEU
+b12031c2f9f2f9f40b5829c1859d1526	2	.CommMotelEU
+b362f8de0471e6247ba6e3b782e42cea	13	.CommMotelEU
+4b7bccfb3e5a13140bace22571f5f877	14	.CommMotelEU
+4f227c2a1c80f3348aa4136aa07680b2	12	.CommMotelEU
+50af1995a9e4bfe43aadde3137cc6c8b	4	.CommMotelEU
+769b86b9cf728404692596b2fa353769	4	.CommMotelEU
+b3a0aa64736f28c45b16216e56c6dcd9	4	.CommMotelEU
+fe0ad3eac817c0c42bd9f48bc44e667d	12	.CommMotelEU
+d947014c8239f144b8fe3aaa3c7002ec	9	.CommMotelEU
+d80b1360bce1579419c96bc8e0d67db3	4	.CommMotelEU
+-------------------------------------------
+785c3f4bfc5ec2f4f8383cc34073adc8	4	.CommMotelNA
+7e2256e11e0adbc4fbb789f12c77e719	11	.CommMotelNA
+810ef11cc80c00a44b9a7e31b3ec6960	6	.CommMotelNA
+855b25a090a4d7e4d98c9f278420dc70	7	.CommMotelNA
+9cdb1284630869d4590b6173b8314b3e	7	.CommMotelNA
+b362f8de0471e6247ba6e3b782e42cea	11	.CommMotelNA
+c3de34db81c0c604bb27b090f04a062a	4	.CommMotelNA
+4f227c2a1c80f3348aa4136aa07680b2	2	.CommMotelNA
+8185f3c4cf05fbe478a55fb84487ec0c	12	.CommMotelNA
+fe0ad3eac817c0c42bd9f48bc44e667d	10	.CommMotelNA
+b3a0aa64736f28c45b16216e56c6dcd9	4	.CommMotelNA
+769b86b9cf728404692596b2fa353769	2	.CommMotelNA
+603f63c276f0e874aa7f438c7740cd11	4	.CommMotelNA
+d6e1a56b4268294449b92beeb1cd6530	2	.CommMotelNA
+-------------------------------------------
+603f63c276f0e874aa7f438c7740cd11	15	.IndAgri
+8185f3c4cf05fbe478a55fb84487ec0c	45	.IndAgri
+b362f8de0471e6247ba6e3b782e42cea	35	.IndAgri
+fe0ad3eac817c0c42bd9f48bc44e667d	5	.IndAgri
+-------------------------------------------
+-------------------------------------------
+603f63c276f0e874aa7f438c7740cd11	66	.IndManu
+8185f3c4cf05fbe478a55fb84487ec0c	127	.IndManu
+9cdb1284630869d4590b6173b8314b3e	139	.IndManu
+37173135540498a4e8b7686dcaa92f2f	20	.IndManu
+d947014c8239f144b8fe3aaa3c7002ec	44	.IndManu
+6cdccc58a61c2314bb7e0b0781851485	7	.IndManu
+fe0ad3eac817c0c42bd9f48bc44e667d	72	.IndManu
+b362f8de0471e6247ba6e3b782e42cea	146	.IndManu
+d80b1360bce1579419c96bc8e0d67db3	8	.IndManu
+b12031c2f9f2f9f40b5829c1859d1526	8	.IndManu
+81a9639388eefdc4c9318b2c63180c6b	2	.IndManu
+02c99a63f6fdd5e4993a7e48ca365ae7	7	.IndManu
+50af1995a9e4bfe43aadde3137cc6c8b	46	.IndManu
+b3a0aa64736f28c45b16216e56c6dcd9	16	.IndManu
+b7f5ced0233fcb948a43883ebe08aa73	7	.IndManu
+3da100ecfad738b42bb0970767ded006	2	.IndManu
+89621152bff79d944b9e228fc0ae57a6	3	.IndManu
+ed5bee5b4fd16874b84cc4b62a2e2d3e	12	.IndManu
+769b86b9cf728404692596b2fa353769	6	.IndManu
+71cbb886b233b3343bb41718cd90aa2e	2	.IndManu
+785c3f4bfc5ec2f4f8383cc34073adc8	2	.IndManu
+-------------------------------------------
+50af1995a9e4bfe43aadde3137cc6c8b	3	.IndManuSig
+b362f8de0471e6247ba6e3b782e42cea	3	.IndManuSig
+8185f3c4cf05fbe478a55fb84487ec0c	1	.IndManuSig
+95fbcdf3298e3f649a274fd0cf3dc67e	1	.IndManuSig
+fe0ad3eac817c0c42bd9f48bc44e667d	3	.IndManuSig
+89621152bff79d944b9e228fc0ae57a6	2	.IndManuSig
+9cdb1284630869d4590b6173b8314b3e	1	.IndManuSig
+37173135540498a4e8b7686dcaa92f2f	3	.IndManuSig
+d80b1360bce1579419c96bc8e0d67db3	3	.IndManuSig
+810ef11cc80c00a44b9a7e31b3ec6960	1	.IndManuSig
+384ed11a5eddc3a41bc90aebf10b43f2	1	.IndManuSig
+ed5bee5b4fd16874b84cc4b62a2e2d3e	1	.IndManuSig
+-------------------------------------------
+603f63c276f0e874aa7f438c7740cd11	15	.IndOil
+8185f3c4cf05fbe478a55fb84487ec0c	58	.IndOil
+9cdb1284630869d4590b6173b8314b3e	42	.IndOil
+b362f8de0471e6247ba6e3b782e42cea	5	.IndOil
+-------------------------------------------
+9cdb1284630869d4590b6173b8314b3e	20	.IndOre
+fe0ad3eac817c0c42bd9f48bc44e667d	15	.IndOre
+-------------------------------------------
+8185f3c4cf05fbe478a55fb84487ec0c	23	.IndWare
+9cdb1284630869d4590b6173b8314b3e	31	.IndWare
+b362f8de0471e6247ba6e3b782e42cea	17	.IndWare
+-------------------------------------------
+0c8a54d10924c4c4f967c512af8c74fe	2	.MixedEUSig
+83d0dd67f0bdd12439e0d00374e8b394	1	.MixedEUSig
+8741f473ee4efd94ea8051b27ab94158	1	.MixedEUSig
+d947014c8239f144b8fe3aaa3c7002ec	1	.MixedEUSig
+fe0ad3eac817c0c42bd9f48bc44e667d	1	.MixedEUSig
+b7f5ced0233fcb948a43883ebe08aa73	2	.MixedEUSig
+d0a1c606b22c86543856f672819e20d1	2	.MixedEUSig
+d2a3db2c3cbbc3741913503b586097f7	1	.MixedEUSig
+dd965d822be18a94d92451755bf82042	1	.MixedEUSig
+5b346c7e24f8b9b45b66716acb792607	1	.MixedEUSig
+95fbcdf3298e3f649a274fd0cf3dc67e	1	.MixedEUSig
+cdd7ac5ceb8acdf4ca3ed817ca1da886	1	.MixedEUSig
+f6c94092fe9815846af6404a4d2edd0e	1	.MixedEUSig
+-------------------------------------------
+4f227c2a1c80f3348aa4136aa07680b2	3	.MixedNASig
+5b346c7e24f8b9b45b66716acb792607	1	.MixedNASig
+816cfd33a2a9d434284a650033f5245e	1	.MixedNASig
+81a9639388eefdc4c9318b2c63180c6b	1	.MixedNASig
+8741f473ee4efd94ea8051b27ab94158	1	.MixedNASig
+b362f8de0471e6247ba6e3b782e42cea	1	.MixedNASig
+c3de34db81c0c604bb27b090f04a062a	1	.MixedNASig
+d80b1360bce1579419c96bc8e0d67db3	1	.MixedNASig
+00f74c870f06a8746a426f97517e777b	1	.MixedNASig
+1ba106031818e1946a3a0c50b2f482e2	1	.MixedNASig
+6e48309ea1b7a954c8baf5f1ea210df9	1	.MixedNASig
+941958e7a8d4e2b4490b1c461f25eede	1	.MixedNASig
+9cdb1284630869d4590b6173b8314b3e	1	.MixedNASig
+de07dd1ccd340784387f963fd47a9656	1	.MixedNASig
+ed5bee5b4fd16874b84cc4b62a2e2d3e	1	.MixedNASig
+f6c94092fe9815846af6404a4d2edd0e	1	.MixedNASig
+-------------------------------------------
+7e2256e11e0adbc4fbb789f12c77e719	15	.OfficeHigh
+855b25a090a4d7e4d98c9f278420dc70	40	.OfficeHigh
+df1ae4e2e01e3e244b6d4f1ec59626a3	9	.OfficeHigh
+4b7bccfb3e5a13140bace22571f5f877	22	.OfficeHigh
+b362f8de0471e6247ba6e3b782e42cea	20	.OfficeHigh
+1ba106031818e1946a3a0c50b2f482e2	10	.OfficeHigh
+5b346c7e24f8b9b45b66716acb792607	2	.OfficeHigh
+810ef11cc80c00a44b9a7e31b3ec6960	9	.OfficeHigh
+8185f3c4cf05fbe478a55fb84487ec0c	11	.OfficeHigh
+384ed11a5eddc3a41bc90aebf10b43f2	13	.OfficeHigh
+81a9639388eefdc4c9318b2c63180c6b	2	.OfficeHigh
+ed5bee5b4fd16874b84cc4b62a2e2d3e	19	.OfficeHigh
+b12031c2f9f2f9f40b5829c1859d1526	13	.OfficeHigh
+b828678d6b5fa9546b37547b70cd3973	20	.OfficeHigh
+135b0eb5d8b55e24b8cae28398b1ac00	17	.OfficeHigh
+3da100ecfad738b42bb0970767ded006	20	.OfficeHigh
+4f227c2a1c80f3348aa4136aa07680b2	9	.OfficeHigh
+fe0ad3eac817c0c42bd9f48bc44e667d	13	.OfficeHigh
+9cdb1284630869d4590b6173b8314b3e	6	.OfficeHigh
+6e48309ea1b7a954c8baf5f1ea210df9	10	.OfficeHigh
+11325c4ff827a954380665d842c7b312	6	.OfficeHigh
+941958e7a8d4e2b4490b1c461f25eede	2	.OfficeHigh
+1d6fc888b7738bd4ea422c8a23ca6af5	2	.OfficeHigh
+3523125ac4634e1469b9fa77e0447e77	7	.OfficeHigh
+50af1995a9e4bfe43aadde3137cc6c8b	3	.OfficeHigh
+37173135540498a4e8b7686dcaa92f2f	18	.OfficeHigh
+d685afaba91b8514aaddff5008d7e725	3	.OfficeHigh
+d80b1360bce1579419c96bc8e0d67db3	18	.OfficeHigh
+d947014c8239f144b8fe3aaa3c7002ec	2	.OfficeHigh
+02c99a63f6fdd5e4993a7e48ca365ae7	5	.OfficeHigh
+5d6f2e1ce7a1a714f81943892b9da1c0	6	.OfficeHigh
+83d0dd67f0bdd12439e0d00374e8b394	2	.OfficeHigh
+0003ddc9c81772841b87107ae9a88dad	6	.OfficeHigh
+bd5c6d42684f0604ab740e16bc28af47	6	.OfficeHigh
+c3de34db81c0c604bb27b090f04a062a	4	.OfficeHigh
+047a9f563c5146045bbdab53c207965d	11	.OfficeHigh
+71cbb886b233b3343bb41718cd90aa2e	3	.OfficeHigh
+d0a1c606b22c86543856f672819e20d1	4	.OfficeHigh
+89621152bff79d944b9e228fc0ae57a6	3	.OfficeHigh
+381510ba31636e4418131f569495c09f	1	.OfficeHigh
+cdd7ac5ceb8acdf4ca3ed817ca1da886	2	.OfficeHigh
+603f63c276f0e874aa7f438c7740cd11	2	.OfficeHigh
+54910a349e38b7c4384ae196a6c3670e	4	.OfficeHigh
+b7f5ced0233fcb948a43883ebe08aa73	1	.OfficeHigh
+dd965d822be18a94d92451755bf82042	1	.OfficeHigh
+-------------------------------------------
+11325c4ff827a954380665d842c7b312	1	.OfficeHighSig
+1ba106031818e1946a3a0c50b2f482e2	1	.OfficeHighSig
+1d6fc888b7738bd4ea422c8a23ca6af5	1	.OfficeHighSig
+855b25a090a4d7e4d98c9f278420dc70	1	.OfficeHighSig
+dd965d822be18a94d92451755bf82042	1	.OfficeHighSig
+135b0eb5d8b55e24b8cae28398b1ac00	1	.OfficeHighSig
+3523125ac4634e1469b9fa77e0447e77	1	.OfficeHighSig
+-------------------------------------------
+460bc75ecde76624db5d9c6c6d11d190	9	.OfficeLow
+7e2256e11e0adbc4fbb789f12c77e719	36	.OfficeLow
+b362f8de0471e6247ba6e3b782e42cea	17	.OfficeLow
+9cdb1284630869d4590b6173b8314b3e	14	.OfficeLow
+d685afaba91b8514aaddff5008d7e725	12	.OfficeLow
+fe0ad3eac817c0c42bd9f48bc44e667d	19	.OfficeLow
+855b25a090a4d7e4d98c9f278420dc70	13	.OfficeLow
+941958e7a8d4e2b4490b1c461f25eede	5	.OfficeLow
+c3de34db81c0c604bb27b090f04a062a	16	.OfficeLow
+d947014c8239f144b8fe3aaa3c7002ec	19	.OfficeLow
+71cbb886b233b3343bb41718cd90aa2e	6	.OfficeLow
+d80b1360bce1579419c96bc8e0d67db3	19	.OfficeLow
+11325c4ff827a954380665d842c7b312	6	.OfficeLow
+6cdccc58a61c2314bb7e0b0781851485	9	.OfficeLow
+8185f3c4cf05fbe478a55fb84487ec0c	25	.OfficeLow
+1ba106031818e1946a3a0c50b2f482e2	11	.OfficeLow
+37173135540498a4e8b7686dcaa92f2f	2	.OfficeLow
+4f227c2a1c80f3348aa4136aa07680b2	2	.OfficeLow
+89621152bff79d944b9e228fc0ae57a6	5	.OfficeLow
+810ef11cc80c00a44b9a7e31b3ec6960	2	.OfficeLow
+4b7bccfb3e5a13140bace22571f5f877	11	.OfficeLow
+769b86b9cf728404692596b2fa353769	2	.OfficeLow
+3523125ac4634e1469b9fa77e0447e77	4	.OfficeLow
+bb82e6396dd235f428adb0be2c9e58b1	3	.OfficeLow
+df1ae4e2e01e3e244b6d4f1ec59626a3	6	.OfficeLow
+b7f5ced0233fcb948a43883ebe08aa73	1	.OfficeLow
+b12031c2f9f2f9f40b5829c1859d1526	1	.OfficeLow
+-------------------------------------------
+89621152bff79d944b9e228fc0ae57a6	1	.OfficeLowSig
+9cdb1284630869d4590b6173b8314b3e	1	.OfficeLowSig
+11325c4ff827a954380665d842c7b312	1	.OfficeLowSig
+1ba106031818e1946a3a0c50b2f482e2	1	.OfficeLowSig
+3523125ac4634e1469b9fa77e0447e77	1	.OfficeLowSig
+7e2256e11e0adbc4fbb789f12c77e719	1	.OfficeLowSig
+941958e7a8d4e2b4490b1c461f25eede	1	.OfficeLowSig
+d685afaba91b8514aaddff5008d7e725	1	.OfficeLowSig
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------

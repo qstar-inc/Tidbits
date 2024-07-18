@@ -86,9 +86,11 @@ def find_pattern_in_prefab_files(root_dir):
                             rcontent_text = [resources.get(num, f"{num}") for num in rcontent]
                             line += f'{file_name} stors: {rcontent_text}\n'
                             print(f'{file_name} stors: {rcontent_text}')
-    with open('find_resources.txt', 'w') as f2:
+                    # if not match1 and not match2 and not match3:
+                    #     line += f'{file_name}\n'
+    with open('find_building_properties.txt', 'w') as f2:
         f2.write(line)
 
 # Example usage:
-root_directory = 'C:/Users/Qoushik/AppData/LocalLow/Colossal Order/Cities Skylines II/StreamingData~/.Zones'  # Set your root directory here
+root_directory = 'C:/Users/Qoushik/AppData/LocalLow/Colossal Order/Cities Skylines II/StreamingData~/.Vanilla'  # Set your root directory here
 find_pattern_in_prefab_files(root_directory)

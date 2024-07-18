@@ -96,12 +96,12 @@ def search_text_in_prefab(directory, search_texts):
                                 
     print(len(counter))
     with open('find_brand_objects.txt', 'a') as file_to_write:
-        dir = f'{directory.replace(os.getenv("LocalAppData")+"Low/Colossal Order/Cities Skylines II/.StreamingData~/Mixed Office/","")}'
+        dir = f'{directory.replace(os.getenv("LocalAppData")+"Low/Colossal Order/Cities Skylines II/StreamingData~/.Vanilla/","")}'
         for key, item in counter.items():
             file_to_write.write(f'{key}\t{item}\t{dir}\n')
         file_to_write.write(f'-------------------------------------------\n')
 
-directory_path = os.getenv('LocalAppData')+'Low/Colossal Order/Cities Skylines II/.StreamingData~/Mixed Office/'
+directory_path = os.getenv('LocalAppData')+'Low/Colossal Order/Cities Skylines II/StreamingData~/.Vanilla/'
 with open('find_brand_objects.txt', 'w') as file_to_xwrite:
     file_to_xwrite.write("")
 file_to_xwrite.close()

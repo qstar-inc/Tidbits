@@ -4,7 +4,7 @@ import os
 from PIL import Image, ImageDraw
 
 def create_folders_and_images_from_tsv(tsv_file):
-    output_folder = os.path.join(os.path.dirname(tsv_file), 'output')
+    output_folder = os.path.join(os.path.dirname(tsv_file), 'output2')
     os.makedirs(output_folder, exist_ok=True)
     os.makedirs(os.path.join(output_folder, '.assets'), exist_ok=True)
     
@@ -87,7 +87,7 @@ def create_circle_image(image_path, width, height):
 
 if __name__ == "__main__":
     script_dir = os.path.dirname(os.path.realpath(__file__))
-    tsv_file = os.path.join(script_dir, 'raw.tsv')
+    tsv_file = os.path.join(script_dir, 'raw2.tsv')
     if os.path.exists(tsv_file):
         create_folders_and_images_from_tsv(tsv_file)
     else:

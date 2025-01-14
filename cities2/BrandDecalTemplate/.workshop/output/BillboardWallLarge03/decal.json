@@ -9,9 +9,9 @@
     },
     "Vector": {
         "colossal_MeshSize": {
-            "x": 6.608,
+            "x": 1324.0,
             "y": 0.5,
-            "z": 5.026,
+            "z": 1008.0,
             "w": 0
         },
         "colossal_TextureArea": {

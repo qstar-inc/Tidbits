@@ -9,9 +9,11 @@ def combine_cid_files():
                 if filename.endswith(".Prefab"):
                     with open(dirpath+'/'+filename, "r") as prefab_file:
                         prefab_content = prefab_file.read()
-                        mesh = prefab_content.split('"m_Mesh": ')[1].split('"')[1]
-                        name = prefab_content.split('"name": "')[1].split('"')[0]
-                        combined_file.write(f"Mesh: {mesh}, Name: {name}\n")
+                        mesh_regex = prefab_content.split('"m_Mesh": ')
+                        if len(mesh_regex)>1:
+                            mesh = mesh_regex[1].split('"')[1]
+                            name = prefab_content.split('"name": "')[1].split('"')[0]
+                            combined_file.write(f"{name}.Prefab.cid: {mesh.replace("CID:","")}\n")
 
     print("Combining complete!")
 

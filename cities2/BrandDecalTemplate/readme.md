@@ -9,6 +9,7 @@ This folder includes templates for all vanilla Cities: Skylines II Brand Graphic
 1. Download and extract the `BrandDecalTemplate-v#.#.#.zip` or copy the `.workshop\output` folder out of the `.workshop` folder, and rename it to your chosen company name.
 2. Ensure you only include just the relevant brand objects to avoid increasing the mod size. To find out what items you need, plop the relevant building down in the Editor and see what ad items are present for that company.
 3. The image sizes are already optimized to be as little as possible. When editing the images using Photoshop or GIMP, use the "Export" option instead of "Save As". Follow these guidelines: Set Metadata to none, Do not add Interlacing, don't save/embed Color Profile and other unnecessary data.
+4. After your editing is done, use the `optimizer.bat` file to optimize the images and create the `_BaseColorMap.png` files for all the `image.png` files.
 
 # Details
 

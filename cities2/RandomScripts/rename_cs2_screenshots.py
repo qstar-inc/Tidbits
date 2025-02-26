@@ -25,12 +25,12 @@ for filename in os.listdir(directory):
         time_part = match.group(3)
         extra = match.group(4) or ""
         month = months.get(month_name, "01")
-        new_date = f"2024-{month}-{day}"
-        diff = (current_date - datetime(2024,int(month),int(day))).days
+        new_date = f"2025-{month}-{day}"
+        diff = (current_date - datetime(2025,int(month),int(day))).days
         if int(diff) < 0:
-            year = "2023"
-        else:
             year = "2024"
+        else:
+            year = "2025"
         new_date = f"{year}-{month}-{day}"
         new_filename = f"{new_date}_{time_part}{extra}.png"
         

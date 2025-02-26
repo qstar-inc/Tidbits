@@ -32,13 +32,13 @@ def make_json(folder_path, lx, ly, lz):
                     "colossal_DecalLayerMask": 36,
                     "_NormalOpacity": 2,
                     "_MetallicOpacity": 0,
-                    "UiPriority": 1980100
+                    "UiPriority": 99999999
                 },
                 "Vector": {
                     "colossal_MeshSize": {
-                        "x": lx,
-                        "y": lz,
-                        "z": ly,
+                        "x": lx/200,
+                        "y": lz/200,
+                        "z": ly/200,
                         "w": 0
                     },
                     "colossal_TextureArea": {

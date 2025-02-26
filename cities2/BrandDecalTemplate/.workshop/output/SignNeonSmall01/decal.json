@@ -5,13 +5,13 @@
         "colossal_DecalLayerMask": 36,
         "_NormalOpacity": 2,
         "_MetallicOpacity": 0,
-        "UiPriority": 1980100
+        "UiPriority": 99999999
     },
     "Vector": {
         "colossal_MeshSize": {
-            "x": 484.0,
-            "y": 0.5,
-            "z": 120.0,
+            "x": 2.42,
+            "y": 0.0025,
+            "z": 0.6,
             "w": 0
         },
         "colossal_TextureArea": {
